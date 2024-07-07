@@ -16,13 +16,13 @@ const songs = [
     {
         path: 'assets/1.mp3',
         displayName: 'Aa mil',
-        cover: 'assets/1.jpg',
+        cover: 'assets/1.jpeg',
         artist: 'Zaeden, Lisa Mishra',
     },
     {
         path: 'assets/2.mp3',
         displayName: 'O soniye',
-        cover: 'assets/2.jpg',
+        cover: 'assets/2.png',
         artist: 'Vibha Saraf, Arijit Singh',
     },
     {
